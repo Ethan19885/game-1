@@ -54,5 +54,16 @@ app.get('/world/respawns', (req, res) => res.send(world.respawns));
 app.get('/world/shops', (req, res) => res.send(world.shops));
 /** ************************************** */
 
+app.get('/world/world'2
+app.get(localhost)
+ app.get(port)
+
+// DELAFORD NEW SERVER // 
+
+const game = new Delaford(server2);
+;
+)}
+
+
 // Start the game server.
 game.start();
